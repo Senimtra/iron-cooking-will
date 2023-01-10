@@ -1,0 +1,118 @@
+<div class='secondary-bar'>
+  <div class='heading-secondary'>{{recipes.length}}
+    Recipes have been added so far</div>
+</div>
+
+<div class='container-fluid mx-5-lg px-5 py-3'>
+
+  <div class='card form-card px-5 py-3'>
+
+    <form id='recipe-create-form' method='POST' enctype='multipart/form-data'>
+
+      <h1>Create your own recipe</h1>
+
+      <div class='row'>
+        <div class='col-9 form-floating'>
+          <input id='input-title' class='form-control' type='text' name='title'
+            placeholder='What did you cook today?' />
+          <label for='input-title' class='ms-4'>What did you cook today?</label>
+        </div>
+        <div class='col'>
+          <input id='input-cookingtime' class='form-control form-control-sm' type='number' name='cookingTime'
+            placeholder='Cooking time' />
+          <input id='input-servings' class='form-control form-control-sm' type='number' name='servings'
+            placeholder='Servings' />
+        </div>
+      </div>
+
+      <div class='row mt-4'>
+
+        <div class='col'>
+          <label for='input-level'>Difficulty level:</label>
+          <select class='form-select' name='level' id='input-level'>
+            <option value='Easy'>Easy</option>
+            <option value='Intermediate'>Intermediate</option>
+            <option value='Advanced'>Advanced</option>
+          </select>
+        </div>
+        <div class='col'>
+          <label for='input-diet'>Diet:</label>
+          <select class='form-select' name='diet' id='input-diet' multiple>
+            <option value='Omnivore'>Omnivore</option>
+            <option value='Pescatarian'>Pescatarian</option>
+            <option value='Vegetarian'>Vegetarian</option>
+            <option value='Vegan'>Vegan</option>
+          </select>
+        </div>
+        <div class='col'>
+          <label for='input-cuisine'>Cuisine:</label>
+          <select class='form-select' name='cuisine' id='input-cuisine' multiple>
+            <option value='Asian'>Asian</option>
+            <option value='European'>European</option>
+            <option value='American'>American</option>
+            <option value='African'>African</option>
+          </select>
+        </div>
+        <div class='col'>
+          <label for='input-dishtype'>Dish Type:</label>
+          <select class='form-select' name='dishType' id='input-dishtype' multiple>
+            <option value='Appetizers & Starters'>Appetizers & Starters</option>
+            <option value='Salads'>Salads</option>
+            <option value='Soups & Stews'>Soups & Stews</option>
+            <option value='Beans, Grains & Legumes'>Beans, Grains & Legumes</option>
+            <option value='Casseroles & Gratins'>Casseroles & Gratins</option>
+            <option value='Meat dishes'>Meat dishes</option>
+            <option value='Burgers'>Burgers</option>
+            <option value='Pizzas'>Pizzas</option>
+            <option value='Pasta & Noodles'>Pasta & Noodles</option>
+            <option value='Desserts'>Desserts</option>
+            <option value='Baked Goods'>Baked Goods</option>
+          </select>
+        </div>
+      </div>
+
+      <div class='row mt-4'>
+        <div class='col'>
+          <div id='ingredient-container' style='display: flex; flex-direction: column'>
+            <div class="form-button-container py-2">
+              <button class="btn btn-sm btn-outline-secondary" type='button' id='add-ingredient'>Add
+                Ingredient!</button>
+              <button class="btn btn-sm btn-outline-secondary" type='button' id='remove-ingredient'>Remove
+                Ingredient!</button>
+            </div>
+
+            <input class='input-ingredients' type='text' name='ingredients' placeholder='Ingredient 1' />
+
+          </div>
+        </div>
+      </div>
+
+      <div class='row mt-4'>
+        <div class='col'>
+          <div id='instructions-container' style='display: flex; flex-direction: column'>
+
+            <div class="form-button-container py-2">
+              <button class="btn btn-sm btn-outline-secondary" type='button' id='add-instruction'>Add Preparation
+                Step!</button>
+              <button class="btn btn-sm btn-outline-secondary" type='button' id='remove-instruction'>Remove Preparation
+                Step!</button>
+            </div>
+
+            <input class='input-instructions' type='text' name='instructions' placeholder='Preparation Step 1' />
+
+          </div>
+        </div>
+      </div>
+
+      <div class='row my-4'>
+        <div class='col'>
+          <h3><label for='input-picture'>Add your Recipe Image</label></h3>
+          <input type='file' class='form-control' id='input-picture' name='picture' accesp='image/*' required />
+        </div>
+      </div>
+
+      <button type='submit' class='btn btn-secondary create-recipe-btn'>Publish your recipe</button>
+
+    </form>
+  </div>
+</div>

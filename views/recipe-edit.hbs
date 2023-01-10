@@ -1,0 +1,116 @@
+<div class='secondary-bar'>
+  <div class='heading-secondary'>{{recipes.length}} Recipes have been added so far</div>
+</div>
+<div class='container-fluid mx-5-lg px-5 py-3'>
+
+  <div class='card form-card px-5 py-3'>
+
+    <form id='recipe-edit-form' method='POST' enctype='multipart/form-data'>
+
+      <h1>Update your own recipe</h1>
+
+      <div class='row'>
+        <div class='col-9 form-floating'>
+          <input id='input-title' class='form-control' type='text' name='title' value='{{recipe.title}}' />
+          <label for='input-title' class='ms-4'>What did you cook today?</label>
+        </div>
+
+        <div class='col'>
+          <input id='input-cookingtime' class='form-control form-control-sm' type='number' name='cookingTime'
+            value={{recipe.cookingTime}} />
+          <label for="input-cookingtime">Cooking Time</label>
+
+          <input id='input-servings' class='form-control form-control-sm' type='number' name='servings'
+            value={{recipe.servings}} />
+          <label for="input-servings">Servings</label>
+        </div>
+      </div>
+
+      <div class='row mt-4'>
+
+        <div class='col'>
+          <label for="input-level">Difficulty level:</label>
+          <select class='form-select' name='level' id='input-level'>
+            <option value="" selected disabled hidden>{{recipe.level}}</option>
+            <option value='Easy'>Easy</option>
+            <option value='Intermediate'>Intermediate</option>
+            <option value='Advanced'>Advanced</option>
+          </select>
+        </div>
+
+        <div class='col'>
+          <label for="input-diet">Diet:</label>
+          <select class='form-select' name='diet' id='input-diet' multiple>
+            <option value="" selected disabled hidden>{{recipe.diet}}</option>
+            <option value='Omnivore'>Omnivore</option>
+            <option value='Pescatarian'>Pescatarian</option>
+            <option value='Vegetarian'>Vegetarian</option>
+            <option value='Vegan'>Vegan</option>
+          </select>
+        </div>
+
+        <div class='col'>
+          <label for="input-cuisine">Cuisine:</label>
+          <select class='form-select' name='cuisine' id='input-cuisine' multiple>
+            <option value="" selected disabled hidden>{{recipe.cuisine}}</option>
+            <option value='Asian'>Asian</option>
+            <option value='European'>European</option>
+            <option value='American'>American</option>
+            <option value='African'>African</option>
+          </select>
+        </div>
+
+        <div class='col'>
+          <label for="input-dishtype">Dish Type:</label>
+          <select class='form-select' name='dishType' id='input-dishtype' multiple>
+
+
+            <option value="" selected disabled hidden>{{recipe.dishType}}</option>
+            <option value='Appetizers & Starters'>Appetizers & Starters</option>
+            <option value='Salads'>Salads</option>
+            <option value='Soups & Stews'>Soups & Stews</option>
+            <option value='Beans, Grains & Legumes'>Beans, Grains & Legumes</option>
+            <option value='Casseroles & Gratins'>Casseroles & Gratins</option>
+            <option value='Meat dishes'>Meat dishes</option>
+            <option value='Burgers'>Burgers</option>
+            <option value='Pizzas'>Pizzas</option>
+            <option value='Pasta & Noodles'>Pasta & Noodles</option>
+            <option value='Desserts'>Desserts</option>
+            <option value='Baked Goods'>Baked Goods</option>
+          </select>
+        </div>
+      </div>
+
+      <div class='row mt-4'>
+        <div class='col'>
+          <h3>Ingredients</h3>
+          <div id='ingredient-container' style='display: flex; flex-direction: column'>
+            {{#each recipe.ingredients}}
+            <input class='input-ingredients' type='text' name='ingredients' value='{{this}}' />
+            {{/each}}
+          </div>
+        </div>
+
+        <div class='row mt-4'>
+          <div class='col'>
+            <h3>Instructions</h3>
+            <div id='instructions-container' style='display: flex; flex-direction: column'>
+              {{#each recipe.instructions}}
+              <input class='input-instructions' type='text' name='instructions' value='{{this}}' />
+              {{/each}}
+            </div>
+          </div>
+
+          <div class='row my-4'>
+            <div class='col'>
+              <h3>Recipe Image</h3>
+              <input type='file' class='form-control' id='input-picture' name='picture' accesp='image/*'
+                buttonText='Your label here.' />
+            </div>
+          </div>
+          <div>
+            <button id="update-btn" type='submit' class='btn btn-secondary'>Update your recipe</button>
+          </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,60 @@
+<div class='secondary-bar'>
+  <div class='heading-secondary'>Sign Up to Join the Iron Cooking Will</div>
+</div>
+
+<div class='card p-5 mx-5 my-4'>
+
+  <form
+    action='/authentication/sign-up'
+    method='POST'
+    enctype='multipart/form-data'
+  >
+
+    <div class='form-floating mb-3'>
+      <input
+        type='text'
+        id='input-name'
+        name='username'
+        class='form-control'
+        placeholder='Your Username'
+      />
+      <label for='input-name'>Username</label>
+    </div>
+
+    <div class='form-floating mb-3'>
+      <input
+        class='form-control'
+        type='email'
+        id='input-email'
+        name='email'
+        placeholder='Your Email'
+      />
+      <label for='input-email'>Email</label>
+    </div>
+    <div class='form-floating mb-3'>
+
+      <input
+        class='form-control'
+        type='password'
+        name='password'
+        id='input-password'
+        placeholder='A Strong Password'
+      />
+      <label for='input-password'>Password</label>
+    </div>
+
+    <div class='form-floating mb-3'>
+      <input
+        class='form-control'
+        id='input-picture'
+        type='file'
+        name='picture'
+        accept='image/*'
+      />
+      <label for='input-picture'>Profile Picture</label>
+    </div>
+
+    <button type='submit' class='btn btn-secondary'>Sign Up</button>
+  </form>
+
+</div>

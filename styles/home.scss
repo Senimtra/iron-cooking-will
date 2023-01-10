@@ -1,0 +1,77 @@
+// ### Home styles ###
+
+main {
+  background-color: $white;
+  padding-bottom: 2em;
+}
+
+#recipe-count,
+#paging,
+#sorting-filtering {
+  display: flex;
+  align-items: center;
+  @include secondary;
+  .btn {
+    color: $white;
+  }
+}
+
+.count-api {
+  word-spacing: 0.2em;
+}
+
+#btn-one {
+  margin-left: 0;
+}
+
+.btn-page {
+  background-color: $grey;
+  margin-left: 0.3em;
+}
+
+#recipe-list {
+  padding: 1em;
+  color: $pine;
+}
+
+.active-page {
+  background-color: $turquoise !important;
+  color: $pine !important;
+}
+
+.homebar-label {
+  margin-right: 0.7em;
+  white-space: nowrap;
+}
+
+.form-select {
+  margin: 0;
+  background-color: $offwhite;
+  color: $pine;
+  width: 10em;
+}
+
+#sort-filter-pagination-form {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+}
+
+#sort-dropdown {
+  width: 10em;
+}
+#filter-dropdown {
+  width: 12em;
+  margin-left: 0.3em;
+}
+
+#pass-page-value {
+  width: 1em;
+}
+
+.form-select:focus {
+  border-color: #ced4da;
+  box-shadow: none;
+}

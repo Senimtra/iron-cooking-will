@@ -1,0 +1,35 @@
+// ### User-list styles ###
+
+.user-card {
+  display: flex;
+  flex-direction: row;
+  @include card-shadow;
+  color: $dark-pine;
+  background-color: #f1f0e9;
+  border-radius: 0;
+  img {
+    border-radius: 50%;
+    width: 5.25em;
+    margin-right: 1.5em;
+  }
+  a {
+    text-decoration: none;
+  }
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+
+.user-card:hover {
+  box-shadow: 0 3px 8px #00000054;
+  transform: scale(1.01);
+}
+
+#user-view-name h1 {
+  font-family: $font-acme;
+  margin-bottom: 0;
+  div {
+    font-size: 0.9em;
+  }
+}
+
+#user-view-image {
+}

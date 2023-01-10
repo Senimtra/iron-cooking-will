@@ -1,0 +1,85 @@
+// ### Navbar styles ###
+
+.navbar {
+  background-color: $turquoise;
+  height: 3em;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  button {
+    border: 0;
+  }
+}
+
+.nav-link {
+  color: $pine !important;
+  font-family: $font-acme;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-left: 0.8em;
+}
+
+.disabled {
+  color: $pine !important;
+}
+
+a {
+  position: relative;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: $pine !important;
+}
+
+nav a:not(.attribution):hover::after {
+  content: '';
+  position: absolute;
+  left: 5px;
+  right: 5px;
+  bottom: 10px;
+  border: 1.2px solid $pine;
+  background-color: $pine;
+  @include rounded;
+}
+
+.navbar-nav {
+  background-color: $turquoise;
+  border-bottom-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+}
+
+.navbar-collapse {
+  margin-top: 3px !important;
+}
+
+.navbar-toggler-icon {
+  width: 15px;
+  height: 22px;
+}
+
+#api-attribution {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+  img {
+    margin: 0.15em -100%;
+  }
+}
+
+#attribution-image {
+  width: 5em;
+}
+
+.attribution-link {
+  padding: 0;
+  margin: 0;
+}
+
+#edamam-badge {
+  text-decoration: none;
+}

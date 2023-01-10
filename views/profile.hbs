@@ -1,0 +1,52 @@
+<div class="secondary-bar">
+  <div class='heading-secondary'>{{recipe.length}} Recipes</div>
+  {{!-- <div class='heading-secondary'>{{comment.length}} Comments</div> --}}
+</div>
+
+<div class="container-fluid px-5 my-3">
+  {{!-- {{user.comments}} --}}
+  {{!-- {{user.likedrecipes}} --}}
+
+
+  <div class='row'>
+    <div class='col mb-3'>
+      <div id='profile-detail-top' class='card px-3 pb-2'>
+        <div>
+          <div id='recipe-title'>
+            {{#if ownProfile}}
+            Your Profile
+            {{else}}
+            {{profile.username}}'s Profile
+            {{/if}}
+            <br>
+            {{#if profile.picture}}
+            <img id="profile-pic" src='{{profile.picture}}' alt='{{profile.name}}' height='100px' />
+            {{/if}}
+          </div>
+          <div id="profile-name"><strong>Name</strong>: {{profile.username}}</div>
+          {{#if ownProfile}}
+          <div id="profile-mail"><strong>Email</strong>: {{profile.email}}</div>
+        </div>
+
+        <div id='recipe-buttons'>
+          <a href='/profile/{{profile._id}}/edit'>
+            <button class='btn btn-secondary btn-sm edit-user-info-btn'>Edit User Info</button>
+          </a>
+          <form action='/profile/{{user._id}}/delete' method='POST'>
+            <button type='submit' class='btn btn-secondary btn-sm delete-user-btn'>‼️ Delete User ‼️</button>
+          </form>
+          {{/if}}
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+  {{!-- {{user.recipes}} --}}
+  <div class="container recipe-container">
+    <div class="row row-cols-xl-4 row-cols-lg-3 row-cols-md-2 row-cols-1">
+      {{#each recipe}}
+      {{>recipe}}
+      {{/each}}
+    </div>
+  </div>

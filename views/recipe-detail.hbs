@@ -1,0 +1,190 @@
+<div class='secondary-bar'>
+</div>
+
+<div class='container-fluid px-5 py-4'>
+  <div class='row'>
+    <div class='col mb-3'>
+      <div id='recipe-detail-top' class='card px-3 pb-2'>
+        <div>
+          <div id='recipe-title'>{{recipe.title}}</div>
+
+          <div>
+            <i class='fas fa-tachometer-alt'></i>
+            {{recipe.level}}
+            |
+            <i class='fas fa-clock'></i>
+            {{recipe.cookingTime}}min |
+            <i class='fas fa-seedling'></i>
+            {{recipe.diet}}
+            |
+            <i class='fas fa-globe-africa'></i>
+            {{recipe.cuisine}}
+            |
+            <i class="fas fa-mortar-pestle"></i>
+            {{recipe.dishType}}
+            |
+            <i class='fas fa-utensils'></i>
+            {{recipe.servings}} servings
+          </div>
+        </div>
+        <div id='recipe-buttons'>
+          {{#if user}}
+            {{#unless ownRecipe}}
+              {{#if ratings}}
+                <form action='/recipe/{{recipe._id}}/vote' method='POST'>
+                  <button
+                    class='btn btn-secondary btn-sm'
+                    style='background: red;'
+                  >♥️</button>
+                </form>
+
+              {{else}}
+                <form action='/recipe/{{recipe._id}}/vote' method='POST'>
+                  <button class='btn btn-secondary btn-sm'>♥️</button>
+                </form>
+              {{/if}}
+
+            {{/unless}}
+            {{#if ownRecipe}}
+              <a href='/recipe/{{recipe._id}}/edit'>
+                <button class='btn btn-secondary btn-sm'>Update Recipe</button>
+              </a>
+              <form action='/recipe/{{recipe._id}}/delete' method='post'>
+                <button class='btn btn-secondary btn-sm'>Delete Recipe Forever</button>
+              </form>
+            {{/if}}
+          {{/if}}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='row mb-3'>
+    <div class='col-12 col-md-6'>
+      <div id='recipe-image-card' class='card p-3'>
+        <img src='{{recipe.picture}}' alt='{{recipe.title}}' />
+      </div>
+    </div>
+    <div class='col'>
+      <div id='ingredients-card' class='card p-3'>
+        <h2>Ingredients</h2>
+        <ul>
+          {{#each recipe.ingredients}}
+            <li>{{this}}</li>
+          {{/each}}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='col mb-2'>
+      <div id='recipe-instructions' class='card p-3 pb-0'>
+        <h2>Preparation steps</h2>
+        <ul>
+          {{#each recipe.instructions}}
+            <li>{{this}}</li>
+          {{/each}}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <hr />
+
+  <div class='card p-3 pb-0 my-4'>
+    <h2>Send this recipe to a friend!</h2>
+    <form action='/recipe/{{recipe._id}}/send' method='POST'>
+      <div class='row'>
+        <div class='form-floating mb-3 col-12 col-md-6'>
+          <input
+            type='text'
+            class='form-control'
+            name='name'
+            id='input-name'
+            placeholder='name'
+            required
+          />
+          <label for='input-name' class='ms-3'>Your friends name</label>
+        </div>
+        <div class='form-floating mb-3 col-12 col-md-6'>
+          <input
+            type='email'
+            class='form-control'
+            name='email'
+            id='input-email'
+            placeholder='email'
+            required
+          />
+          <label for='input-email' class='ms-3'>Your friend's email address</label>
+        </div>
+      </div>
+      <div class='form-floating mb-3'>
+        <input
+          type='text'
+          class='form-control'
+          name='subject'
+          id='input-subject'
+          placeholder='subject'
+          disabled
+        />
+        <label for='input-subject'>I found this awesome recipe on Iron Cooking
+          Will - have a look!</label>
+      </div>
+      <div class='form-floating mb-3'>
+        <textarea
+          class='form-control'
+          name='message'
+          placeholder='message'
+          id='input-message'
+          style='height: 100px'
+          required
+        ></textarea>
+        <label for='input-message'>Your message</label>
+      </div>
+      <button type='submit' class='btn sendRecipeButton' >Send Recipe!</button>
+    </form>
+  </div>
+
+{{! comments }}
+<div class='commentDiv'>
+  <hr />
+ <h6>Comment Section</h6>
+ <p>
+  {{#if user}}
+    <form
+      class='commentStyle'
+      action='/recipe/{{recipe._id}}/comment'
+      method='POST'
+    >
+      <input
+        id='comment'
+        type='text'
+        name='comment'
+        placeholder='What do you think...'
+      />
+      <label for='comment'></label>
+      <button class="postButton">Post comment</button>
+    </form>
+  {{/if}}
+ </p>
+
+ <br/>
+
+  <p class="p2">
+    {{#each comment}}
+     
+     {{this.creator.username}}:
+
+      {{this.comment}}
+
+
+
+      {{#if this.ownComment}}
+        <form action='/recipe/{{this.refRecipe}}/comment/delete/{{this._id}}' method='POST'>
+        <button class="deleteButton">Delete your comment </button> 
+        </form>
+      {{/if}}
+      <hr />
+    {{/each}}
+  </p>
+</div>
+{{!}}

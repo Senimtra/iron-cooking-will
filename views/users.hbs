@@ -1,0 +1,13 @@
+<div class='secondary-bar'>
+  <div class='heading-secondary'>{{users.length}} Registered Users</div>
+  <div class='heading-secondary'>{{recipe.length}} Recipes</div>
+  <div class='heading-secondary'>{{comment.length}} Comments</div>
+</div>
+
+<div class="container-fluid px-5 my-3">
+  <div class="row">
+    {{#each users}}
+    {{>user}}
+    {{/each}}
+  </div>
+</div>

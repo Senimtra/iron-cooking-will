@@ -1,0 +1,13 @@
+<div class="col-xs-12 col-md-6 col-xl-4 mt-3">
+  <a href='/profile/{{_id}}'>
+    <div class="user-card card p-3 mb-3">
+      {{#if picture}}
+      <div id="user-view-image"><img src='{{picture}}' alt='{{username}}' width='50px' /></div>
+      {{/if}}
+      <div id="user-view-name">
+        <h1>{{username}}</h1>
+        <div><i><b>Date joined:</b> &nbsp;{{date createdAt}}</i></div>
+      </div>
+    </div>
+  </a>
+</div>

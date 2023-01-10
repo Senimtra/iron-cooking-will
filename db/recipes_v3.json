@@ -1,0 +1,1545 @@
+[
+   {
+      "_id": {
+         "$oid": "614c57a87b24436fb3f68f49"
+      },
+      "title": "Coconut Chicken Curry",
+      "level": "Intermediate",
+      "cookingTime": 60,
+      "diet": ["Omnivore"],
+      "cuisine": ["Asian"],
+      "dishType": ["Meat dishes"],
+      "ingredients": [
+         "6 chicken drumsticks and 6 chicken thighs",
+         "Kosher salt",
+         "Vegetable oil",
+         "1 yellow onion, sliced",
+         "2 garlic cloves, minced",
+         "1-inch piece fresh ginger, peeled and minced",
+         "3 Tbsp curry powder",
+         "1 tsp ground cumin",
+         "1/2 tsp cayenne pepper",
+         "1 (14.5oz) can chopped tomatoes, drained",
+         "1 (15oz) can light coconut milk",
+         "1 cup frozen peas, thawed",
+         "1 cup chopped fresh cilantro leaves"
+      ],
+      "instructions": [
+         "Rinse the chicken and pat dry with paper towels. Sprinkle with salt. Coat bottom of a 5-7 quart stew pot or dutch oven with a small amount of oil and set over medium high heat. Add chicken skin side down without crowding, in batches if necessary, and cook until skin is golden brown, about 5 minutes. Turn the pieces over and cook until they are brown on the other side, about 5 minutes more. Transfer to a plate.",
+         "When the chicken is all browned, add the onion to the pot and cook, stirring for 2 minutes, then add the garlic and ginger to the pot and cook, stirring, until the they are soft about 1 more minute. Add the curry powder, cumin, cayenne, and 1/2 tsp salt and cook for 30 seconds until the spices are fragrant then add the tomatoes and 1 cup of coconut milk. Stir well and let them come to a boil.",
+         "Return the chicken and any juices to the pot. Surround the chicken with the sauce so that the topmost skin is exposed. If there is not enough liquid to bring the sauce almost up to the top of the chicken, add as much of the remaining coconut milk as needed. Reduce heat to simmer and cook uncovered about 45 minutes. Stir in the peas and cilantro, cover, and cook until the peas are hot, about 5 minutes more. Test the chicken by cutting to the bone, if needed continue to cook, covered, until chicken is done.",
+         "Serve hot over rice and with a vegetable side."
+      ],
+      "creator": {
+         "$oid": "614a120a1db7f06beb3b3584"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632393128/fk4powjyzpetdbaqqxzp.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T10:32:08.590Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T10:32:08.590Z"
+      },
+      "__v": 0,
+      "servings": "6",
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c5a797b24436fb3f68f51"
+      },
+      "title": "Irish Chocolate Cake",
+      "level": "Advanced",
+      "cookingTime": 35,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European"],
+      "dishType": ["Desserts", "Baked Goods"],
+      "ingredients": [
+         "1 1/2 cups unsweetened cocoa powder",
+         "2 cups stout (such as Guinness)",
+         "2 cups (4 sticks) unsalted butter",
+         "4 cups all purpose flour",
+         "4 cups sugar",
+         "1 tablespoon baking soda",
+         "1 1/2 teaspoons salt",
+         "4 large eggs",
+         "1 1/3 cups sour cream",
+         "2 cups whipping cream",
+         "1 pound bittersweet or semisweet chocolate, chopped"
+      ],
+      "instructions": [
+         "Preheat oven to 200. Butter three 8-inch round cake pans with 2-inch-high sides. Line with parchment paper. Butter paper. Simmer 2 cups stout and 2 cups butter in heavy large saucepan over medium heat. Add cocoa powder and whisk smooth. Cool slightly.",
+         "Whisk flour, sugar, baking soda, and 1 1/2 teaspoons salt in a large bowl until blended. Using an electric mixer, beat eggs and sour cream in another large bowl to blend. Add stout-chocolate mixture to egg mixture and beat just to combine. Add flour mixture and beat briefly on slow speed. Using rubber spatula, fold batter until completely combined. Divide batter equally among prepared pans. Bake cakes until tester inserted into center of cakes comes out clean, about 35 minutes. Transfer cakes to rack; cool 10 minutes. Turn cakes out onto rack and cool completely.",
+         "Simmer cream in a heavy medium saucepan. Remove from heat. Add the chopped chocolate and whisk until melted and smooth. Refrigerate until icing is spreadable, stirring frequently, about 2 hours.",
+         "Place 1 cake layer on plate. Spread 2/3 cup icing over. Top with second cake layer. Spread 2/3 cup icing over. Top with third cake layer. Spread remaining icing over top and sides of cake."
+      ],
+      "creator": {
+         "$oid": "614a120a1db7f06beb3b3584"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632393849/egtpu6xm2u3rpv99icd4.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T10:44:09.603Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T10:44:09.603Z"
+      },
+      "__v": 0,
+      "servings": 16,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c5df37b24436fb3f68f66"
+      },
+      "title": "Simple Breakfast Quiche",
+      "level": "Easy",
+      "cookingTime": 35,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European"],
+      "dishType": ["Appetizers & Starters"],
+      "ingredients": [
+         "8 slices bacon",
+         "4 ounces shredded Swiss cheese",
+         "2 tablespoons butter, melted",
+         "4 eggs, beaten",
+         "1/4 cup finely chopped onion",
+         "1 teaspoon salt",
+         "1/4 cup all-purpose flour",
+         "1 1/2 cups milk",
+         "1/2 cups cooked and chopped broccoli, spinach or any other vegetable."
+      ],
+      "instructions": [
+         "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+         "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9 inch pie pan.",
+         "Line bottom of pie plate with cheese and crumbled bacon. Combine eggs, butter, onion, salt, flour and milk; whisk together until smooth; pour into pie pan. Brush egg white on trim of crust.",
+         "Bake in preheated oven for 35 minutes, until set. Serve hot or cold."
+      ],
+      "creator": {
+         "$oid": "614a12781db7f06beb3b3590"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632394738/ysmroqbjvqrp1ar4amnh.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T10:58:59.103Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T10:58:59.103Z"
+      },
+      "__v": 0,
+      "servings": 8,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c5f457b24436fb3f68f6e"
+      },
+      "title": "Italian Spinach Soup",
+      "level": "Advanced",
+      "cookingTime": 20,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European"],
+      "dishType": ["Soups & Stews"],
+      "ingredients": [
+         "3 lbs fresh spinach",
+         "3 Tbsp butter",
+         "1/2 medium onion, chopped",
+         "3 cups high quality chicken, beef, or vegetable broth",
+         "1 cup low fat milk",
+         "1/8 tsp ground nutmeg",
+         "5 Tbsp freshly grated Parmesan cheese",
+         "1 Tsp salt"
+      ],
+      "instructions": [
+         "Clean spinach and put in a pot with 3-4 cups water and 1 tsp salt. Cover and cook until tender, about 3-4 minutes (you many need to stir to cook evenly).",
+         "Keep the water from the cooked spinach to use as the base for the broth that you add (if you are using concentrated or dried broth that needs to be reconstituted). Otherwise, discard it.",
+         "Put the butter and onion in a large soup pot and turn to medium. Saute until the onion becomes pale gold, about 4 minutes. Add the spinach and saute uncovered for 2-3 minutes, stirring.",
+         "Add the broth, milk, and nutmeg, and bring to a simmer stirring occassionally. Add the grated Parmesan, stirring thoroughly, taste and correct for salt.",
+         "Turn of the heat and serve into bowls with toast or crostini on the side.",
+         "Server with fresh ground pepper on the table for those who want it."
+      ],
+      "creator": {
+         "$oid": "614a12781db7f06beb3b3590"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632395077/vjiby5qymnxp6ymz3jph.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T11:04:37.965Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T11:04:37.965Z"
+      },
+      "__v": 0,
+      "servings": 4,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c61157b24436fb3f68f74"
+      },
+      "title": "Black Bean Salad",
+      "level": "Easy",
+      "cookingTime": 20,
+      "diet": ["Vegan"],
+      "cuisine": ["American"],
+      "dishType": ["Salads"],
+      "ingredients": [
+         "2 lbs. black beans ",
+         "2 lbs. cooked sweet corn, cut from the cob",
+         "8 green onions, diced",
+         "2 cloves garlic, large, minced",
+         "2-3 jalapeno peppers, cleaned, diced",
+         "1 green Bell pepper, cleaned, diced",
+         "1 ripe avocado, large, pitted, peeled and diced",
+         "1 jar (4 oz) pimentos, drained",
+         "3 tomatoes, seeded & diced",
+         "1C fresh cilantro, chopped",
+         "sea salt & fresh cracked black pepper to taste",
+         "3 T fresh lime juice",
+         "2 T fresh orange juice",
+         "2-1/2 tsp lime zest",
+         "1/2 tsp ground cumin"
+      ],
+      "instructions": [
+         "Combine all the salad ingredients in a large bowl. Season with the salt & pepper. Whisk the dressing vigorously to incorporate. Add the dressing to the salad and gently toss to combine everything. Chill until ready to serve. Lightly toss again prior to serving.",
+         "Prepare this salad at least 4 hours prior to serving to let everything - except the avocado - marry joyfully in the bowl.",
+         "You do want to let the avocado bathe in the lime juice of the dressing - better presentation that way, and you can store the avocado pieces in a small container. Then, pour the dressing off the avocado and mix the salad with the dressing, then dress the top of the salad with the avocado pieces at service. Very pretty dish & the absence of any oil seems to make all the veggies sparkle in a light citrus glow. You want this salad well chilled, but if you don't bathe the avocados in the dressing first, they will end up looking like grey lumps of pork as the air hits them."
+      ],
+      "creator": {
+         "$oid": "614a12781db7f06beb3b3590"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632395540/spwzleylw0nptrihypap.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T11:12:21.105Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T11:12:21.105Z"
+      },
+      "__v": 0,
+      "servings": 12,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c63087b24436fb3f68f83"
+      },
+      "title": "Japanese Street Crepes",
+      "level": "Easy",
+      "cookingTime": 15,
+      "diet": ["Vegetarian"],
+      "cuisine": ["Asian"],
+      "dishType": ["Desserts"],
+      "ingredients": [
+         "1 cup SR flour",
+         "3 eggs",
+         "1 and 3/4 cups milk (room temp, or microwaved 30sec)",
+         "30g melted butter",
+         "1 Tbsp sugar",
+         "Anything you like for fillings"
+      ],
+      "instructions": [
+         "Sift flour, sugar, pinch salt into a bowl (preferrably a jug-bowl).",
+         "Beat in eggs and half the milk. Beat until all lumps are gone.",
+         "Add the rest of the milk, add butter and beat again.",
+         "Stand at room temperature 15-30min (depending on your patience).",
+         "Pour a little into a pre-heated, non-stick frypan and immediately tip the frypan to let the batter spread all over the frypan (can use a regular frypan, greased with a tiny bit of butter) (another option is to spread the batter with a crepe tool or okonomiyaki spatula) Cook over med-high heat until underside is golden-brown. (about 1-2 min)",
+         "Lift the edges of the crepe and flip the crepe (I find this easiest to do with my fingers, as the crepe is so thin) Cook just 30 sec or so on the second side.",
+         "Fill the Crepes however you like."
+      ],
+      "creator": {
+         "$oid": "614a12921db7f06beb3b3598"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632396040/mkinu5czs46a1azyayuu.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T11:20:40.447Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T11:20:40.447Z"
+      },
+      "__v": 0,
+      "servings": 15,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c64877b24436fb3f68f8b"
+      },
+      "title": "Balinese BBQ Pork Roast",
+      "level": "Advanced",
+      "cookingTime": 180,
+      "diet": ["Omnivore"],
+      "cuisine": ["Asian"],
+      "dishType": ["Meat dishes"],
+      "ingredients": [
+         "1 boneless pork shoulder roast, about 3 pounds",
+         "4 large shallots or 2 small onions",
+         "4-8 Thai chiles or 2-4 jalapenos",
+         "4 cloves garlic, peeled",
+         "2 Tbsp chopped fresh ginger1 Tbsp chopped fresh turmeric or 1/2 tsp ground turmeric",
+         "1 Tbsp chopped fresh galangal, or 1 Tbsp more ginger",
+         "3 stalks fresh lemongrass, trimmed and finely chopped or 3 large strips lemon zest",
+         "1.5 tsp ground coriander",
+         "1 tsp fresh ground black pepper",
+         "2 Tbsp fresh lime juice",
+         "1 Tbsp firmly packed light brown sugar",
+         "2 tsp salt",
+         "3 Tbsp vegetable oil"
+      ],
+      "instructions": [
+         "Combine the shallots, chiles, garlic, ginger, turmeric, galangal, lemongrass, coriander, pepper, lime juice, sugar, salt, and 1 Tbsp vegetable oil in a mortar and pound to a smooth paste with the pestle, or puree in a blender or food processor to a smooth paste.",
+         "Heat 2 Tbsp of oil in a wok or skillet over medium heat. Add the spice paste and saute until fragrant, about 5 minutes. Stir frequently to avoid splattering, and run your fan on high. Remove from pan and let cool. The paste can be made up to a day in advance and refrigerated in an airtight container.",
+         "Trim the roast of excess fat, if any. Using a sharp knife, make a deep slice in the center of roast, starting and ending 3/4 inch from the ends, and cutting almost though to the other side of the roast. You should have a nice pocket about 6 inches long.",
+         "Fill the pocket with spice paste and tie the roast back together with kitchen twine or pin it with metal skewers. Spread the remaining paste all over the outside of the roast. If any spice mixture remains, set it aside to add during the grilling process.",
+         "If you have a rotisserie, this is probably the best way to cook the roast. Preheat your grill to high and cook for about 1.5 hours.",
+         "I used the indirect cooking method. Move the charcoals to either side of the place where you plan to cook the roast, and place a drip pan in the middle. If you have a gas grill where the coals are not movable, either turn off the middle burner or just put a drip pan made of aluminum foil directly over the center burner. To make a foil drip pan, just tear 3 pieces of foil about 16 inches long, overlap them so they are the width you want, then fold the edges up about 2 inches to form a make-shift drip pan.",
+         "After setting up the grill, preheat it on high. Turn the grill down and place the roast over the drip pan. Adjust heat or coals so the internal temperature rests at about 350 F. This will ensure nice browning without burning, and should result in a cook time of about 2 hours. Turn the meat occasionally during cooking so all sides get equally browned, and rub on additional spice mixture if any.",
+         "Transfer roast to cutting board or platter and let stand for 10 minutes before removing strings and cutting into thin slices to serve."
+      ],
+      "creator": {
+         "$oid": "614a12921db7f06beb3b3598"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632396422/ykcr49dso2btzteu88sy.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T11:27:03.153Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T11:27:03.153Z"
+      },
+      "__v": 0,
+      "servings": 6,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c66dc7b24436fb3f68f93"
+      },
+      "title": "Five Star Lasagna",
+      "level": "Intermediate",
+      "cookingTime": 140,
+      "diet": ["Omnivore"],
+      "cuisine": ["European"],
+      "dishType": ["Pasta & Noodles"],
+      "ingredients": [
+         "1 pound of sweet Italian sausage",
+         "1 pound of ground beef",
+         "1/2 cup of chopped onions",
+         "2 cloves of garlic chopped",
+         "1 (28 ounce) can of crushed tomatoes",
+         "2 (8 ounce) cans of tomato sauce",
+         "2 (6 ounce) cans of tomato paste",
+         "1/2 Cup of Water",
+         "2 tablespoons white sugar",
+         "1 teaspoon fennel seed",
+         "2 teaspoons fresh Basil leaves chopped",
+         "4 tablespoons fresh Italian parsley chopped",
+         "1 teaspoon salt",
+         "1 teaspoon Italian Seasoning",
+         "1/2 teaspoon ground pepper",
+         "32 ounces of ricotta cheese.",
+         "1/2 teaspoon fresh grated nutmeg",
+         "1 egg",
+         "1 pound shredded mozzarella cheese",
+         "1 cup grated Parmesan cheese",
+         "16 lasagna noodles"
+      ],
+      "instructions": [
+         "Preheat oven to 350.",
+         "Brown the ground beef, Italian sausage, onions and garlic in a pot.",
+         "Stir in crushed tomatoes, tomato sauce, tomato paste and water.",
+         "Stir in white sugar, fennel seed, Basil, 2 tbsp Italian parsley, Italian Seasoning, salt and ground pepper.",
+         "Cover and let simmer on low for 1 hour and 30 minutes.",
+         "In the meantime, mix ricotta cheese, fresh grated nutmeg, egg, 2 tbsp italian parsley.",
+         "Spread 2 Cups of meat sauce on bottom of the pan.",
+         "Lay 8 noodles across the layer of sauce, overlapping as needed.",
+         "Spread half of the ricotta cheese mixture over the layer of noodles.",
+         "Set aside 1/2 cup mozzarella & 1/4 cup Parmesan to top lasagna.",
+         "Spread half of remaining mozzarella over the ricotta layer.",
+         "Sprinkle half of remaining Parmesan over the mozzarella layer.",
+         "Spread 2 cups of meat sauce over the cheese layer.",
+         "Lay down the next layer of 8 noodles.",
+         "Spread the remaining ricotta mixture over noodles.",
+         "Spread remaining mozzarella and Parmesan still saving what was set aside for the top.",
+         "Put the last layer of meat sauce on the cheeses.",
+         "Cover with foil and bake at 350 for 25 minutes.",
+         "Remove foil and bake uncovered for another 25 minutes.",
+         "Remove from oven and allow to cool for approximately 15 minutes."
+      ],
+      "creator": {
+         "$oid": "614a12921db7f06beb3b3598"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632397020/wmonadw9b866eyt1z3sw.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T11:37:00.795Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T11:37:00.795Z"
+      },
+      "__v": 0,
+      "servings": 12,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c7edebe8bce24d1f9d391"
+      },
+      "title": "Carrot Cake",
+      "level": "Intermediate",
+      "cookingTime": 50,
+      "diet": ["Vegetarian"],
+      "cuisine": ["American"],
+      "dishType": ["Desserts", "Baked Goods"],
+      "ingredients": [
+         "about 12 med. carrots",
+         "4 eggs",
+         "2 c dark brown sugar, packed",
+         "1 c pineapple, crushed, well drained",
+         "0,75 c canola oil",
+         "0,5 c applesauce",
+         "0,75 c chopped pecans or walnuts",
+         "15 ml pure vanilla extract",
+         "2 c all-purpose flour",
+         "10 ml baking soda",
+         "10 ml baking powder",
+         "2,46 ml fine sea salt",
+         "15 ml ground cinnamon",
+         "1,23 ml grated nutmeg",
+         "240 ml (or 230 g) cream cheese",
+         "3,5 c confectioners sugar",
+         "0,5 c sweet butter, softened",
+         "5 ml pure vanilla extract",
+         "0,5 c chopped pecans or walnuts"
+      ],
+      "instructions": [
+         "Preheat the oven to 200.",
+         "Butter or Crisco and flour the inside of a 9x13 cake pan.",
+         "In a large bowl combine and whisk together the eggs, oil, carrots, applesauce, brown sugar, vanilla extract, pineapple and chopped nuts.",
+         "Combine and whisk together the flour, baking soda and baking powder, salt, nutmeg and cinnamon.",
+         "Gently incorporate the dry into the wet ingredients - not too much mixing, just combine and distribute the ingredients evenly.",
+         "Pour the batter into the cake pan and bake for 45-50 minutes and test for done with a clean toothpick.",
+         "Let the cake rest in the pan for 10-15 minutes, then turn it out and let it cool completely on a rack.",
+         "Combine the butter, cream cheese, confectioners sugar and vanilla in a medium bowl.",
+         "Beat until smooth and creamy.",
+         "Fold in the nuts.",
+         "Frost the cake."
+      ],
+      "creator": {
+         "$oid": "6143a5fb373dd09b64acb14c"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632391917/qrnxk1ldf1jxgwwsfgwb.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T10:11:57.899Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T10:11:57.899Z"
+      },
+      "__v": 0,
+      "servings": 16,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c7ee6be8bce24d1f9d392"
+      },
+      "title": "Spicy Shrimp Moroccan Style",
+      "level": "Easy",
+      "cookingTime": 20,
+      "diet": ["Pescatarian"],
+      "cuisine": ["African"],
+      "dishType": ["Appetizers & Starters", "Meat dishes"],
+      "ingredients": [
+         "2 pounds uncooked shrimp, shelled and tails removed",
+         "4 garlic cloves, peeled and crushed",
+         "1/4 cup olive oil",
+         "1 tsp paprika",
+         "1.5 tsp cumin",
+         "1/2 tsp ground ginger",
+         "1 pinch cayenne pepper",
+         "Sea salt and fresh ground black pepper to taste",
+         "1/4 cup chopped Italian parsley",
+         "1/4 cup chopped cilantro"
+      ],
+      "instructions": [
+         "Fry the garlic in olive oil over medium until it turns light gold. Add the spices, salt and pepper, and mix well with spatula.",
+         "Add the shrimp and fry them over medium for 8-10 minutes, stirring constantly (12-15 minutes for Jumbo shrimp). Add the chopped herbs and cook for another 2 minutes.",
+         "Serve hot on a bed of rice or of mixed green salad leaves."
+      ],
+      "creator": {
+         "$oid": "6143a5fb373dd09b64acb14c"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632392648/cl0sdkgjlkp8ocn8vwvf.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T10:24:08.767Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T10:24:08.767Z"
+      },
+      "__v": 0,
+      "servings": 4,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614cb5948d999b3e68064199"
+      },
+      "title": "Tiramisu",
+      "level": "Intermediate",
+      "cookingTime": 45,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European"],
+      "dishType": ["Desserts"],
+      "ingredients": [
+         "1 c strong cold expresso coffee",
+         "1 package Italian ladyfingers (Savoiardi)",
+         "3 egg yolks",
+         "5 T sugar",
+         "8 oz mascarpone cheese",
+         "1 T brandy or cognac liquor",
+         "1 c heavy whipping cream",
+         "1 T unsweetened cocoa powder"
+      ],
+      "instructions": [
+         "In a mixing bowl, whisk egg yolks and sugar until frothy.",
+         "Add macarpone cheese and liquor and blend until smooth.",
+         "In another mixing bowl, whip cream until stiff and fold into the mascarpone mixture until well blended and smooth.",
+         "Pour the cold coffee into a dish and dip the ladyfingers very quickly into the coffee and line the bottom of a 11x7x1.5 oblong dish with the ladyfingers.",
+         "Spread half of the mascarpone mixture over the ladyfingers.",
+         "Dip the remaining ladyfingers quickly into the coffee and arrange another layer of ladyfingers and spread the remaining mascarpone mixture.",
+         "Cover with plastic wrap and chill at least six hours.",
+         "When ready to serve, sprinkle cocoa powder through a fine sieve over the entire surface of the tiramisu.",
+         "Cut square portions onto individual dessert plates."
+      ],
+      "creator": {
+         "$oid": "614a12bc1db7f06beb3b35a0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632417172/t8cqap1v9muhzypllihg.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T17:12:52.955Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T17:12:52.955Z"
+      },
+      "__v": 0,
+      "servings": 8,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614cb9858d999b3e680641b8"
+      },
+      "title": "Cheese & Onion Enchiladas",
+      "level": "Intermediate",
+      "cookingTime": 35,
+      "diet": ["Omnivore"],
+      "cuisine": ["American"],
+      "dishType": ["Meat dishes"],
+      "ingredients": [
+         "The Chili Gravy: Makes 2 cups",
+         "1/4c vegetable oil",
+         "1/4c all-purpose flour",
+         "1/2tsp ground black pepper",
+         "1 tsp sea salt",
+         "1-1/2t sp powdered garlic",
+         "2 tsp ground cumin",
+         "1/2 tsp dried oregano",
+         "2Tablespoons chili powder",
+         "2 cups low-sodium chicken broth",
+         "3-4 Tablespoons olive oil",
+         "8 white corn tortillas",
+         "3.5 cups shredded cheddar cheese (reserve 1/2 cup or so to top enchiladas)",
+         "1 medium onion, diced",
+         "2 cups chili gravy"
+      ],
+      "instructions": [
+         "Heat oil in a medium skillet over medium-high heat.",
+         "Stir in flour and continue stirring for 3-4 minutes, or until it makes a light brown roux.",
+         "Add remaining dry ingredients and continue to cook for 1 minute, constantly stirring and blending ingredients.",
+         "Add chicken broth, mixing and stirring until the sauce thickens.",
+         "Turn heat to low and let sauce simmer for 15 minutes. May add water, or chicken broth, to adjust thickness, if necessary.",
+         "Preheat oven to 450°F.",
+         "Pour 1-2 Tablespoons oil in a small or medium skillet and heat tortillas, one at a time, on each side. Layer on plate and blot with paper towels.",
+         "Pour 1/2 cup chili gravy in 7”x9” baking pan.",
+         "Put 1/4 cup cheese & 1 Tablespoon onion in the center of each tortilla, roll up, and place, seam-side down, in baking dish.",
+         "Pour remaining chili gravy over rolled tortillas, top with remaining cheese & onions.",
+         "Bake for 15-20 minutes or until sauce is bubble and cheese is melted. Serve hot."
+      ],
+      "creator": {
+         "$oid": "614a12bc1db7f06beb3b35a0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632418181/svkdlxwd5grkrwpgbv8x.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T17:29:41.473Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T17:29:41.473Z"
+      },
+      "__v": 0,
+      "servings": 4,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614cbbff8d999b3e680641d2"
+      },
+      "title": "Thai Short Ribs",
+      "level": "Advanced",
+      "cookingTime": 240,
+      "diet": ["Omnivore"],
+      "cuisine": ["Asian"],
+      "dishType": ["Meat dishes"],
+      "ingredients": [
+         "3-4 pounds beef short ribs (English cut)",
+         "1 tsp kosher salt",
+         "1/2 tsp ground black pepper",
+         "Oil spray",
+         "4 cloves minced garlic",
+         "2 Tbsp minced ginger",
+         "3 Tbsp hoisin sauce",
+         "2 Tbsp balsamic vinegar",
+         "1 1/2 Tbsp Fish Sauce (Thai or Vietnamese is fine)",
+         "1 Tbsp honey",
+         "1 Tbsp soy sauce",
+         "1 lime juice and finely grated zest",
+         "1 jalapeno pepper, stemmed, seeded and finely chopped",
+         "3 scallions, cut into thin slices",
+         "2 Tbsp freshly chopped cilantro"
+      ],
+      "instructions": [
+         "Preheat a broiler on high. Season the meaty parts of the short ribs with salt and pepper and set bone-side down on an oven tray. Spray with oil and broil until the meaty parts are browned (about 10 minutes). Transfer to a 5-6 quart slow cooker.",
+         "Mix together the garlic, ginger, hoisin, vinegar, fish sauce, honey, soy sauce, and lime juice and zest in a small bowl, and pour over the short ribs. Cover the slow cooker and cook until tender, about 3-4 hours on high or 6-8 hours on low.",
+         "Transfer the ribs to a platter. Skim the fat from the liquid, then add the jalapeno, scallions, and cilantro and cook on high for 5 minutes. Spoon the sauce over the meat and serve.",
+         "Serve with roasted asparagus, white rice, and a salad."
+      ],
+      "creator": {
+         "$oid": "614a12bc1db7f06beb3b35a0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632418815/ckw4qs0evqzj0kfob2is.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T17:40:15.860Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T17:40:15.860Z"
+      },
+      "__v": 0,
+      "servings": 4,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614cc639630448e434041396"
+      },
+      "title": "Apple Oven Pancake",
+      "level": "Difficulty level",
+      "cookingTime": 30,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Desserts"],
+      "ingredients": [
+         "2 tablespoons margarine or butter",
+         "2 large eggs",
+         "1/2 cup all purpose flour",
+         "1/2 cup milk",
+         "1/4 teaspoon salt",
+         "2 Tbsp packed brown sugar",
+         "1/4 tsp ground cinnamon",
+         "1 apple, peeled and sliced",
+         "Lemon juice and powdered sugar (optional)"
+      ],
+      "instructions": [
+         "Preheat oven to 400 F.",
+         "Beat eggs lightly in med bowl with wire whisk or hand beater. Beat in flour, milk, and salt just until mixed.",
+         "Melt butter in 9 inch pie plate (use a pyrex to maximize puffiness) in oven. Brush around pie plate to distribute evenly.",
+         "Sprinkle brown sugar and ground cinnamon evenly over the melted butter. Arrange sliced apples over the sugar. Pour batter over apple. Bake 30-35 minutes. Quickly loosen the edge of pancake and turn upside down onto a serving plate.",
+         "Serve with powdered sugar and lemon juice on the side."
+      ],
+      "creator": {
+         "$oid": "614a12da1db7f06beb3b35a8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632421432/luexjx8wwbr9z31xizxz.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T18:23:53.021Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T19:33:19.988Z"
+      },
+      "__v": 0,
+      "servings": 3,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614ccb7ed44f64f094693b1d"
+      },
+      "title": "Apple Banana Smoothie",
+      "level": "Easy",
+      "cookingTime": 10,
+      "servings": 2,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Appetizers & Starters", "Desserts"],
+      "ingredients": [
+         "1 apple",
+         "1 banana",
+         "1/4 cup curd / yoghurt",
+         "1 tablespoon oats"
+      ],
+      "instructions": [
+         "Cut apple and banana into pieces.",
+         "Put them in a blender, add oats and curds to it.",
+         "Blend together.",
+         "Chill and serve.",
+         "You may add honey.",
+         "Nuts may be added.",
+         "Berries may be added.",
+         "Oats give a good texture to it, do not leave it."
+      ],
+      "creator": {
+         "$oid": "614a12da1db7f06beb3b35a8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632422782/nqbt8own3pnw9ovoqsig.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T18:46:22.993Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T18:46:22.993Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d459ca4cd697aad6f088b"
+      },
+      "title": "Swiss Steak",
+      "level": "Intermediate",
+      "cookingTime": 120,
+      "servings": 4,
+      "diet": ["Omnivore"],
+      "cuisine": ["European"],
+      "dishType": ["Meat dishes"],
+      "ingredients": [
+         "2 pounds beef bottom round, or top round",
+         "½ cup onions, diced",
+         "½ cup diced carrots",
+         "½ cup celery, diced",
+         "14.5-ounce can diced tomatoes",
+         "8 ounces cremini mushrooms, sliced",
+         "3 cloves garlic, minced",
+         "2 tablespoons olive oil",
+         "1 tablespoon Worcestershire sauce",
+         "1 tablespoon parsley, chopped",
+         "1½ teaspoons salt",
+         "1 teaspoon ground black pepper",
+         "1 teaspoon smoked paprika",
+         "1 teaspoon dried oregano"
+      ],
+      "instructions": [
+         "Preheat the oven to 300° F.",
+         "Trim any excess fat from beef, and cut into 8 to 10 slices about ½-inch thick. Pat dry with paper towels. Stir together all dry seasonings in a small bowl until well-mixed. Add sliced beef and dry seasonings to a resealable bag, and toss until beef is well-coated.",
+         "Sear the meat in a Dutch oven making sure to brown well on both sides, then transfer to a large bowl.",
+         "Add onions, carrots, celery, and garlic to the Dutch oven. Cook for a few minutes to soften, stirring frequently. Then add the diced tomatoes, including liquid, and Worcestershire sauce. Stir together until well-mixed, loosening flavorful brown bits stuck to the pot. Return beef slices to the pot on top of vegetables and then top with mushrooms. Cover and cook for 1½ to 2 hours."
+      ],
+      "creator": {
+         "$oid": "614a12da1db7f06beb3b35a8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632454043/ezjptf9alhartf4ioy6z.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T03:27:24.368Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T03:27:24.368Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d4840a4cd697aad6f089f"
+      },
+      "title": "Peanut Butter Brownies",
+      "level": "Easy",
+      "cookingTime": 45,
+      "servings": 12,
+      "diet": ["Vegetarian"],
+      "cuisine": ["American"],
+      "dishType": ["Desserts", "Baked Goods"],
+      "ingredients": [
+         "1/2 c butter",
+         "2 (1oz) semi-sweet baking chocolate squares",
+         "1/2 c creamy peanut butter",
+         "1/3 c white sugar",
+         "1/2 c brown sugar",
+         "2 eggs",
+         "1 tsp vanilla extract",
+         "1 c all-purpose flour",
+         "1 tsp baking powder",
+         "1/2 tsp salt",
+         "1/4 c butter",
+         "2/3 c creamy peanut butter",
+         "1 tsp vanilla extract",
+         "1/3 c powdered sugar",
+         "1 1/2 c lite whipped topping, thawed"
+      ],
+      "instructions": [
+         "Preheat the oven to 325F, grease a 9x9 baking pan.",
+         "Melt the butter and chocolate together over low heat.",
+         "Transfer to mixer and blend with peanut butter and sugars on med-low speed until smooth.",
+         "Beat egg with vanilla and add to mixture.",
+         "Combine flour, baking powder and salt; stir into the sugar mixture.",
+         "Spread evenly into the prepared pan.",
+         "Bake for 35 minutes in preheated oven, or until firm.",
+         "TOPPING: blend together the butter, peanut butter, vanilla, and sugar. Gently mix in the whipped topping by hand. Refrigerate until brownies have cooked and cooled.",
+         "Spread topping onto brownies and cut into bars."
+      ],
+      "creator": {
+         "$oid": "614a12f31db7f06beb3b35b0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632454720/rwoynxxxggpwrlacue7t.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T03:38:40.434Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T03:38:40.434Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d4df1a4cd697aad6f0916"
+      },
+      "title": "Mushroom & Onion Omelet",
+      "level": "Easy",
+      "cookingTime": 15,
+      "servings": 4,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Appetizers & Starters"],
+      "ingredients": [
+         "6 eggs beaten plus 3 tablespoons of water",
+         "1 quart of mushrooms sliced",
+         "3 cloves of garlic crushed & chopped",
+         "4 scallions diced",
+         "1 onion sliced",
+         "1 tsp of Paprika",
+         "1tsp black pepper",
+         "¼ tsp Chili Powder",
+         "½ cup grated mozzarella",
+         "3 tablespoons Olive Oil"
+      ],
+      "instructions": [
+         "In a bowl combine the mushrooms, onions, scallions, garlic, olive oil and spices. Mix well.",
+         "Heat griddle and spread the veggies on the griddle to brown.",
+         "In a bowl beat the eggs, plus 3 tablespoons of water together with a fork until a light golden color.",
+         "Heat a 10 inch frying pan with a tablespoon of olive oil. Fill a ladle with the eggs and pour into the heated frying pan. Lift the frying pan and let the eggs reach all around the pan. Let the eggs become solid enough to gently lift and flip over.",
+         "Flip the eggs only once and place gently on a plate. Sprinkle with mozzarella, fill with the grilled mushrooms and gently fold over and top with some more mushrooms and cheese."
+      ],
+      "creator": {
+         "$oid": "614a12f31db7f06beb3b35b0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632456177/g0xyblfpdwnfjqkcs5ms.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:02:57.952Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:02:57.952Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d4e84a4cd697aad6f0921"
+      },
+      "title": "Spring Salad",
+      "level": "Easy",
+      "cookingTime": 5,
+      "servings": 8,
+      "diet": ["Vegetarian", "Vegan"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Salads"],
+      "ingredients": [
+         "1/2 cup plus 1 tablespoon olive oil",
+         "6 tablespoons fresh lemon juice",
+         "2 garlic cloves, pressed",
+         "16 cups torn romaine lettuce (about 1 large head)",
+         "1 English hothouse cucumber, cut into 2 1/2x1/4x1/4-inch strips",
+         "4 green onions, thinly sliced",
+         "6 radishes, sliced",
+         "1/4 cup minced fresh dill"
+      ],
+      "instructions": [
+         "Whisk oil, lemon juice and garlic in small bowl to blend. Season with salt and pepper.",
+         "Combine lettuce, cucumber, radish, green onions and dill in large bowl. Pour dressing over salad coat."
+      ],
+      "creator": {
+         "$oid": "614a12f31db7f06beb3b35b0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632456323/f8turcs4xetb0xzhacyg.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:05:24.113Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:05:24.113Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d4ff1a4cd697aad6f092e"
+      },
+      "title": "Pork Stew with Wine",
+      "level": "Advanced",
+      "cookingTime": 360,
+      "servings": 12,
+      "diet": ["Omnivore"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Soups & Stews", "Meat dishes"],
+      "ingredients": [
+         "5 pound pork butt or shoulder roast, trimmed of excess fat and cut into 3-4 big chunks if possible",
+         "1/4 cup all purpose flour",
+         "3 Tbsp butter",
+         "2 large onions, chopped",
+         "2 celery ribs, chopped",
+         "2 carrots, sliced about 1/4 inch thick",
+         "2 large cooking apples (like Granny Smith), cored and sliced thinly",
+         "20 pitted prunes",
+         "1 tsp dried sage, crumbled",
+         "2 cups dry red wine",
+         "Beef stock or broth as needed to cover the pork",
+         "Salt and freshly ground black pepper to taste"
+      ],
+      "instructions": [
+         "Cut the pork roast in 3-4 big chunks if possible. Put the flour in a shallow bowl and dredge the pork chunks in the flour. In a large heavy pot, heat 2 Tbsp of butter over medium high, then add the pork and brown on all sides and transfer to the crock pot or stew pot. Heat the remaining 1 Tbsp of butter in the pot, then add the onion, celery, and carrots and cook, stirring, for about 2 min until softened.",
+         "Using a spatula, scrape all the onions, celery, and carrots from the pan into the crock or stew pot. Add the apple, prunes, sage, wine, salt, and pepper and just enough stock to cover then ingredients. (Be generous with the pepper if you want some spice to complement the sweetness).",
+         "Cook for 6 hours on high or 8-10 hours on low in a crock pot, or simmer on low, covered, in a stew pot about 4 hours.",
+         "Break or cut the pork roast into individual servings (it should practically fall from the bone), and serve by placing over mashed potatoes, couscous, or rice with a healthy spoonful of the fruits, vegetables and sauce."
+      ],
+      "creator": {
+         "$oid": "614a130b1db7f06beb3b35b8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632456688/vpqadzlpixsorqu2fovp.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:11:29.170Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:11:29.170Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d52e5a4cd697aad6f094b"
+      },
+      "title": "Bruschetta",
+      "level": "Easy",
+      "cookingTime": 20,
+      "servings": 20,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European"],
+      "dishType": ["Appetizers & Starters"],
+      "ingredients": [
+         "4 roma tomatos blanched, peeled, deseed, fine diced",
+         "1 small onion fine diced",
+         "4 cloves garlic minced",
+         "1 Tblspn fresh basil chopped",
+         "2 Tblespn olive oil",
+         "20 small baguette slices",
+         "1 cup italian blend shredded cheese",
+         "grate fresh parmesan to garnish",
+         "salt tt",
+         "pepper tt"
+      ],
+      "instructions": [
+         "Place sliced baguettes in over at 350 untill firm.",
+         "Mix tomatos, onion, garlic, oil, basil, salt, pepper.",
+         "Lightly sprinkle cheese blend on bagguettes and place back into oven untill cheese melts.",
+         "Scoop tomato mixture ontop of baguettes then grate parmesan ontop and serve."
+      ],
+      "creator": {
+         "$oid": "614a130b1db7f06beb3b35b8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632457445/nzfxqdtxsdsrxv7saffe.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:24:05.583Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:24:05.583Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d5442a4cd697aad6f0955"
+      },
+      "title": "Butternut Squash Soup",
+      "level": "Advanced",
+      "cookingTime": 60,
+      "servings": 6,
+      "diet": ["Vegetarian"],
+      "cuisine": ["African"],
+      "dishType": ["Soups & Stews"],
+      "ingredients": [
+         "1 yellow onion, coarsely chopped",
+         "Kosher or sea salt",
+         "1 1/2 Tbsp olive oil",
+         "2 pounds sweet winter squash cut into 1 1/2 inch chunks. (I used 1 butternut and 1 kabocha...calabaza also would work)",
+         "2 Tbsp tomato paste",
+         "1/4 tsp ground ginger",
+         "1/4 tsp white pepper",
+         "1/4 tsp tumeric",
+         "1/8 tsp ground cinnamon",
+         "1/8 tsp black pepper (or cubeb pepper)",
+         "1/8 tsp ground cumin",
+         "1/8 tsp paprika",
+         "1 pinch of ground or grated nutmeg",
+         "1/2 cup plain yogurt",
+         "1/4 cup half and half (optional)",
+         "4 ounces shredded or crumbled goat cheese, goat gouda, or feta cheese",
+         "1 teaspoon or more harissa paste (a red chile paste you can find at a local middle eastern store or at chefshop.com - or substitute any red chile paste - or use 1/2 to 1 tsp ground cayenne pepper)",
+         "Salt and freshly ground black pepper",
+         "1/4 cup chopped fresh cilantro"
+      ],
+      "instructions": [
+         "In a large soup pot over medium low heat, add the oil, onion, and 1 tsp of coarse salt, cover and steam for about 10 minutes until the onion is soft.",
+         "While the onion is softening, peel and chop the squash. Add the squash, cover, and steam for another 20 minutes.",
+         "Add the tomato paste, spices, four cups of hot water, and bring to a boil then simmer until the squash is tender, about another 20 minutes. Remove from heat.",
+         "Add the yogurt, half and half, 2/3 of the cheese, and the harissa or other red pepper to the last back of soup that you puree. Then mix it all back together. Add coarse salt and pepper to taste.",
+         "Ladle the soup into bowls and add bits of crumbled cheese and fresh cilantro on top."
+      ],
+      "creator": {
+         "$oid": "614a130b1db7f06beb3b35b8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632457794/o1aufe1jtmhcfprnqg6b.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:29:54.778Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:29:54.778Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d567ca4cd697aad6f0980"
+      },
+      "title": "Pumpkin Dump Cake",
+      "level": "Easy",
+      "cookingTime": 75,
+      "servings": 12,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Desserts", "Baked Goods"],
+      "ingredients": [
+         "2 cans (15 ounce) pumpkin puree",
+         "1 cup sugar",
+         "1 can (12 ounces) evaporated milk",
+         "3 eggs",
+         "4 teaspoon pumpkin pie spice",
+         "1/2 teaspoon salt",
+         "1 box yellow cake mix",
+         "3/4 cup butter, melted",
+         "1 cup pecans, chopped"
+      ],
+      "instructions": [
+         "Combine pumpkin, sugar, evaporated milk, eggs, pumpkin pie spice and salt in mixing bowl. Beat well.",
+         "Pour into a greased and floured 9 x 13 pan. Sprinkle cake mix evenly over the pumpkin mixture and then top with the pecans.",
+         "Pour the melted butter over the cake mix layer covering the entire pan as evenly as you can.",
+         "Bake at 350 degrees for 55 minutes."
+      ],
+      "creator": {
+         "$oid": "614a132d1db7f06beb3b35c0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632458364/ydxtgkvjbve5xognzzqm.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:39:24.934Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:39:24.934Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d57e9a4cd697aad6f098a"
+      },
+      "title": "Oven Steak French Fries",
+      "level": "Easy",
+      "cookingTime": 30,
+      "servings": 5,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Appetizers & Starters"],
+      "ingredients": [
+         "8-10 potatoes cleaned with skin",
+         "1 tablespoons of Living the Gourmet Signature Spice Rub",
+         "signature spice mix",
+         "4 tablespoons olive oil"
+      ],
+      "instructions": [
+         "Preheat oven 350 degrees(F).",
+         "Clean and slice the potatoes and pat them dry with a paper towel. Place the potato slices in a large bowl. Add the Living the Gourmet Signature Spice Rub and the olive oil and toss well so that each potato is coated with the spices.",
+         "Place potatoes in a baking dish and place in the oven. After Â½ hour loosen the potatoes carefully with a spatula and turn them over so they bake evenly.",
+         "Bake for about another 20 minutes."
+      ],
+      "creator": {
+         "$oid": "614a132d1db7f06beb3b35c0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632458728/vjsvqyjsobshsqntcf3o.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:45:29.136Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:45:29.136Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d59e2a4cd697aad6f0994"
+      },
+      "title": "Shrimp Creole",
+      "level": "Advanced",
+      "cookingTime": 40,
+      "servings": 6,
+      "diet": ["Pescatarian"],
+      "cuisine": ["American"],
+      "dishType": ["Soups & Stews"],
+      "ingredients": [
+         "1/3 cup olive oil (divided)",
+         "2 Tbsp butter",
+         "2 cups chopped onions",
+         "1 cup chopped green bell pepper",
+         "1 cup chopped celery",
+         "4 cloves garlic, finely minced",
+         "2 15 oz cans Italian plum tomatoes (or diced tomatoes)",
+         "1/2 of a 6oz can tomato paste",
+         "Kosher salt and freshly ground black pepper to taste",
+         "1 tsp Worcestershire sauce",
+         "3 slices lemon peel",
+         "2 whole cloves",
+         "1 bay leaf",
+         "1/2 tsp dried thyme",
+         "1 tsp brown sugar",
+         "1 medium eggplant, diced (skin on)",
+         "1 1/2 pounds medium shrimp, peeled",
+         "1 Tbsp capers",
+         "3 Tbsp chopped flat leaf parsley",
+         "Tabasco or other red pepper sauce",
+         "1 Tbsp minced onion",
+         "1 Tbsp finely minced garlic",
+         "1 cup long grain white rice",
+         "1 cup brown rice",
+         "2 cups chicken stock, 1/2 cup water"
+      ],
+      "instructions": [
+         "Add 3 Tbsp olive oil to a large skillet. Add the onions, green pepper, and celery, stirring occasionally until soft. Add the garlic, stir for 30 seconds, then add the tomatoes and juices. If whole, break up the tomatoes with a spoon or kitchen shears. Add the tomato paste, salt and pepper (be generous), Worcestershire, lemon peel, cloves, sugar, thyme, and bay leaf. Simmer on low about 10 minutes, stirring.",
+         "Meanwhile, heat another 3 Tbsp olive oil in a skillet and saute the eggplant until browned. Leave the oil and pan out for the rice below.",
+         "Add the Eggplant to the tomato pan and cook for 5 minutes, then add the shrimp and cook for another 5 minutes. Stir in the butter and the capers and cook for another 2 minutes.",
+         "Check for seasoning and add salt and pepper as desired. Transfer to a serving bowl and garnish with the chopped parsley.",
+         "FOR THE RICE: When you start the Creole, add the rice and stock to a rice cooker. Alternatively, put both in a pot, bring to boil, cover, and simmer for 20 minutes. Reheat the oil used to cook the Eggplant and add one more Tbsp. Add the minced onion and saute 2 minutes then add the garlic (feel free to add more garlic if you like garlicky rice) and saute until the garlic is golden brown but not burned (about 1 minute). Add all of the rice to the skillet and saute, turning over occasionally, about 2-3 minutes.",
+         "Put rice in a serving dish and serve with the Shrimp Creole and Tabasco sauce for adding at the table. Alternatively, if everyone you are serving likes spicy food, add 1-2 tsp of Tabasco directly to the rice to spice it up before putting it in the serving dish."
+      ],
+      "creator": {
+         "$oid": "614a132d1db7f06beb3b35c0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632459233/dftqhuj2o05zdhae8hli.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T04:53:54.255Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T04:53:54.255Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d6031a4cd697aad6f09f8"
+      },
+      "title": "Sweet Potato Gratin",
+      "level": "Difficulty level",
+      "cookingTime": 75,
+      "servings": 12,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European", "American", "African"],
+      "dishType": ["Casseroles & Gratins"],
+      "ingredients": [
+         "1 1/2 pounds Yukon Gold potatoes",
+         "1 1/2 pounds medium sweet potatoes",
+         "2 cups heavy whipping cream",
+         "1/2 stick butter",
+         "2 garlic cloves, minced",
+         "1 1/2 tsp each dried chopped rosemary, sage, thyme, Italian parsley, fine sea or kosher salt",
+         "3/4 tsp fresh ground black pepper",
+         "1 1/4 cups packed, coarsely grated Gruyere cheese (~5oz)"
+      ],
+      "instructions": [
+         "Fill a large bowl with cool water. Take 1 Yukon Gold potato at a time, peel, then cut into 1/8-inch-thick rounds and place in water. Repeat with sweet potatoes.",
+         "Combine cream, butter, and garlic in medium saucepan; bring to simmer. Remove from heat. Mix all herbs in small bowl. Mix sea salt and black pepper in another small bowl.",
+         "Butter 13x9x2-inch glass baking dish. Drain potatoes, then pat dry. Transfer half of potatoes to prepared baking dish. Use hands to distribute and spread evenly. Sprinkle with half of salt-pepper mixture, then half of herb mixture. Sprinkle with half of cheese. Repeat with remaining potatoes, salt-pepper mixture, herb mixture, and cheese. Pour cream mixture over gratin, pressing lightly to submerge potato mixture as much as possible. (Can be made 6 hours ahead. Cover with plastic wrap and chill. Remove plastic wrap before baking.)",
+         "Preheat oven to 400°F. Cover gratin tightly with foil. Bake 30 minutes. Uncover; bake until top of gratin is golden and most of liquid is absorbed, about 25 minutes longer. Let stand 10 minutes ... serve."
+      ],
+      "creator": {
+         "$oid": "614a134c1db7f06beb3b35c8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632460849/okownwvnsv6qfoj665he.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T05:20:49.691Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T05:21:06.497Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d6342a4cd697aad6f0a0c"
+      },
+      "title": "Banana Peanut Butter Ice Cream",
+      "level": "Easy",
+      "cookingTime": 10,
+      "servings": 2,
+      "diet": ["Vegetarian"],
+      "cuisine": ["American"],
+      "dishType": ["Desserts"],
+      "ingredients": [
+         "Bananas (frozen)",
+         "Peanut Butter (1 Tablespoon per banana)"
+      ],
+      "instructions": [
+         "Peel ripe bananas and put them in a zip lock bag to freeze.",
+         "Freeze for two hours.",
+         "Break bananas into chunks into a food processor or blender.",
+         "Turn on and let the magic happen.",
+         "Turn food processor/blender off to push bananas down as needed.",
+         "Blend until smooth and texture resembles ice cream.",
+         "Add peanut butter and blend slightly until combined.",
+         "Add chocolate chips, graham cracker crumbs, oreos, etc. as well!"
+      ],
+      "creator": {
+         "$oid": "614a134c1db7f06beb3b35c8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632461634/fjfjsbokp44ppptjbgd0.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T05:33:54.573Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T05:33:54.573Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d6444a4cd697aad6f0a1e"
+      },
+      "title": "Tomato Soup",
+      "level": "Intermediate",
+      "cookingTime": 60,
+      "servings": 8,
+      "diet": ["Vegetarian"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Soups & Stews"],
+      "ingredients": [
+         "4 Tablespoons butter",
+         "1 large onion, diced or chopped",
+         "¾ cups flour",
+         "2 large (28oz) cans of diced or crushed tomatoes",
+         "1 6oz can tomato paste",
+         "4 cups whole milk",
+         "4 cups chicken stock",
+         "4 carrots, roughly chopped or diced",
+         "2 bay leaves",
+         "½ cup sugar",
+         "Salt & pepper to taste"
+      ],
+      "instructions": [
+         "Melt butter in a large soup pot and sweat onions on low heat for 6 minutes. Cover the pot and stir occasionally.",
+         "Add flour and stir for 1 minute making sure the flour doesn't brown. Pull away from burner or turn off heat if needed.",
+         "Add tomatoes with juices, tomato paste, milk, chicken stock, carrots, sugar, and bay leaves. Bring to a boil and reduce heat to low. Simmer for 30 minutes stirring occasionally.",
+         "Puree soup in the pot with a hand-held blender. If you want really smooth soup, strain before serving."
+      ],
+      "creator": {
+         "$oid": "614a134c1db7f06beb3b35c8"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632461892/ocwuylyfnf0m7vtligmi.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T05:38:12.575Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T05:38:12.575Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d66fda4cd697aad6f0a30"
+      },
+      "title": "Skillet Breakfast Pizza",
+      "level": "Intermediate",
+      "cookingTime": 35,
+      "servings": 8,
+      "diet": ["Omnivore"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Pizzas"],
+      "ingredients": [
+         "1 (16-ounce) package commercial refrigerated pizza dough (I used Trader Joe’s)",
+         "½ teaspoon olive oil, optional",
+         "½ onion, sliced thin, optional",
+         "1 cup part-skim ricotta cheese",
+         "1 teaspoon garlic powder",
+         "5 lower-sodium bacon slices, cooked and crumbled",
+         "4 ounces part-skim mozzarella cheese, shredded (about 1 cup)",
+         "¼ teaspoon freshly ground black pepper",
+         "1 (6-ounce) package fresh baby spinach"
+      ],
+      "instructions": [
+         "Preheat oven to 450°F.",
+         "Coat the bottom of a pan with olive oil and heat over medium high heat. Add the onion slices and stir for 7-8 minutes, until translucent and just starting to caramelize. Remove the pan and put the onions into a small bowl. Turn up the heat on the stove to high.",
+         "Roll out dough to a 12-inch circle and press into the bottom and 1 inch up sides of a well-seasoned 10-inch cast-iron skillet. Fold the edges of the dough under and crimp like a pie.",
+         "Mix ricotta cheese and garlic powder together and spread in the bottom of the crust. Top with bacon, onion, mozzarella cheese and pepper. Place skillet over high heat on the cooktop and cook 3 minutes.",
+         "Transfer skillet to oven and bake at 450°F for 18 minutes or until the crust is lightly browned and the cheese has melted.",
+         "While pizza cooks, heat a large skillet over medium-high heat and coat with non-stick cooking spray. Add the spinach and cook for 1 minute or until the spinach wilts (stir frequently). Remove spinach onto paper towels to absorb any excess moisture.",
+         "Remove pizza from oven when done and top with the spinach. Cut pizza into 8 wedges."
+      ],
+      "creator": {
+         "$oid": "614a136a1db7f06beb3b35d0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632462589/m503qnscqi7hojemwdgy.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T05:49:49.907Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T05:49:49.907Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d6990a4cd697aad6f0a42"
+      },
+      "title": "Beyond Meat Burger",
+      "level": "Intermediate",
+      "cookingTime": 15,
+      "servings": 4,
+      "diet": ["Vegetarian", "Vegan"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Burgers"],
+      "ingredients": [
+         "4 burger buns",
+         "1 lb hamburger Vegan Beyond Meat Burger",
+         "2 tbsp steak sauce",
+         "2 tbsp red peppers finely minced",
+         "2 tbsp onion finely minced",
+         "1 clove garlic finely minced",
+         "1 tsp jalapeno pepper optional finely minced",
+         "¼ cup cilantro minced",
+         "1 tsp oregano dried",
+         "1 tomato large ripe",
+         "Special Sauce",
+         "½ cup mayonnaise vegenaise if vegan",
+         "2 tbsp ketchup",
+         "1 tbsp Worchester sauce",
+         "2 tbsp sweet pickle relish",
+         "Sauteed Cabbage and Onions",
+         "4 cups cabbage thinly sliced",
+         "2 cups onions thinly sliced",
+         "4 tbsp butter or vegetable spread",
+         "salt and pepper to taste"
+      ],
+      "instructions": [
+         "Mix together the burger, red peppers, onions, garlic, steak sauce, cilantro, oregano, and optional jalapeno. Form into 4 patties. Refrigerate patties.",
+         "Saute the cabbage and onions in the butter or vegetable spread until just slightly soft.",
+         "Mix together the mayonnaise (or vegenaise), ketchup, Worchester sauce, sweet pickle relish.",
+         "Fry the burgers 2 minutes a side over medium heat.",
+         "Toast the Rolls until just warm and spread each side with special sauce.",
+         "Place a burger on the bottom half of a roll, and top with a slice of tomato.",
+         "Add 1/2 cup sauteed cabbage and onions and top with the top half of the roll."
+      ],
+      "creator": {
+         "$oid": "614a136a1db7f06beb3b35d0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632463248/e8yjaqxh5luu0phwmnsv.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T06:00:48.641Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T06:00:48.641Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614d6b82a4cd697aad6f0a4e"
+      },
+      "title": "Fried Broccoli",
+      "level": "Intermediate",
+      "cookingTime": 15,
+      "servings": 4,
+      "diet": ["Omnivore"],
+      "cuisine": ["European", "American"],
+      "dishType": ["Beans, Grains & Legumes"],
+      "ingredients": [
+         "1/4 cup low sodium chicken broth",
+         "2 Tbsp dry sherry",
+         "2 tsp low-sodium soy sauce",
+         "1 tsp toasted sesame oil",
+         "1 tsp cornstarch",
+         "2 tsp Asian chili-garlic sauce",
+         "2 medium garlic cloves minced or pressed",
+         "1/8 tsp red pepper flakes",
+         "1 tsp and 1 Tbsp vegetable oil",
+         "1 1/2 pounds broccoli with florets, cut into 3/4 inch pieces, and stalks trimmed, peeled, and cut on an angle into 1/4 inch thick slices",
+         "1/4 tsp sugar"
+      ],
+      "instructions": [
+         "Whisk broth, sherry, soy sauce, sesame oil, cornstarch, and chili-garlic sauce together in a bowl. Combine garlic, pepper flakes, and 1 tsp oil in another small bowl.",
+         "Heat 1 Tbsp oil in a large, heavy skillet over medium-high heat until it begins to smoke. Add broccoli and sprinkle with sugar. Cook, stirring frequently, for 8-10 minutes until broccoli is well browned.",
+         "Push broccoli to the edges of the skillet clearing a spot in the middle. Add the contents of the small bowl (pepper-oil-garlic) to the center, mashing for 20-30 seconds with a spoon or spatula until garlic is fragrant, then mix together with the broccoli. Add the broth/sherry mixture and cook, stirring constantly, until the sauce is thickened, about 1 minute."
+      ],
+      "creator": {
+         "$oid": "614a136a1db7f06beb3b35d0"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632463745/ufrt61i08ltj7imqc21s.jpg",
+      "createdAt": {
+         "$date": "2021-09-24T06:09:06.250Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-24T06:09:06.250Z"
+      },
+      "__v": 0,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c7ec6be8bce24d1f9d390"
+      },
+      "title": "Spaghetti Bolognese",
+      "level": "Easy",
+      "cookingTime": 30,
+      "diet": ["Omnivore"],
+      "cuisine": ["European"],
+      "dishType": ["Pasta & Noodles"],
+      "ingredients": [
+         "1/4 cup olive oil",
+         "1 brown onion, finely chopped",
+         "2 cloves garlic, finely chopped",
+         "2 sticks celery, finely chopped",
+         "1 carrot, peeled, grated",
+         "250g beef mince",
+         "250g pork mince",
+         "Sea-salt flakes, to season",
+         "1/2 cup milk",
+         "1/2 cup tomato paste",
+         "1 cup red wine",
+         "700g bottle passata",
+         "1 tablespoon brown sugar",
+         "2 fresh bay leaves",
+         "Freshly ground black pepper, to season",
+         "500g spaghetti",
+         "Grated Parmesan"
+      ],
+      "instructions": [
+         "Heat ½ the oil in a large heavy-based saucepan over a low heat. Add onion, garlic, celery and carrot. Cook for 5 minutes or until onion is soft and transparent. Transfer to a bowl and set aside.",
+         "Add remaining oil to pan. Increase heat to high. Add beef and pork and cook, breaking up with a flat-bottomed wooden spoon, until browned. Season with salt.",
+         "Reduce heat to medium. Add milk and cook, stirring occasionally, for 10 minutes or until milk evaporates. Add tomato paste and cook, stirring, for 3 minutes. Add wine, passata, sugar, bay leaves and onion mixture. Season with pepper and stir to combine. Bring slowly to the boil, then reduce heat to low and cook, uncovered, stirring occasionally, for 1 hour.",
+         "Cook pasta in a large saucepan of rapidly boiling salted water following pack instructions or until al dente. Drain. Add 2 large spoonfuls of sauce and toss to combine. 5. Serve pasta topped with remaining sauce, with parmesan on the side."
+      ],
+      "creator": {
+         "$oid": "6143a5fb373dd09b64acb14c"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632376162/kgm0ixfm2infn9wvzy0b.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T11:49:22.625Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T11:49:22.625Z"
+      },
+      "__v": 0,
+      "servings": 2,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614cc936852a686cd93e6c1f"
+      },
+      "title": "Buddha Bowl",
+      "level": "Easy",
+      "cookingTime": 30,
+      "diet": ["Vegetarian", "Vegan"],
+      "cuisine": ["European"],
+      "dishType": ["Salads"],
+      "ingredients": ["500 g rice", "50g Tofu", "30g Carrot"],
+      "instructions": [
+         "Boil Rice.",
+         "Julienne Carrots & Cucumber.",
+         "Marinate Tofu & fry.",
+         "Assemble."
+      ],
+      "creator": {
+         "$oid": "614392faf0c4678f9f428b1b"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632578040/uuwerxgxtwz6tlku5pez.png",
+      "createdAt": {
+         "$date": "2021-09-23T18:36:38.949Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-25T13:54:47.409Z"
+      },
+      "__v": 0,
+      "servings": 2,
+      "ratings": 0
+   },
+   {
+      "_id": {
+         "$oid": "614c5b967b24436fb3f68f57"
+      },
+      "title": "Taco Casserole",
+      "level": "Intermediate",
+      "cookingTime": 30,
+      "diet": ["Omnivore"],
+      "cuisine": ["American"],
+      "dishType": ["Casseroles & Gratins"],
+      "ingredients": [
+         "1 lb ground chicken breast skinless",
+         "8 ozs taco sauce",
+         "1/2 c onions, chopped",
+         "8 ozs light sour cream",
+         "1/2 c bell peppers, chopped",
+         "1 c fat-free cottage cheese",
+         "1 tsp garlic, minced",
+         "1 c low-fat tortilla chips, crushed",
+         "1 1/4 oz low-sodium taco seasoning mix",
+         "1 c cheddar cheese, shredded"
+      ],
+      "instructions": [
+         "Preheat oven at 400. Prepare a 8 square dish with cooking spray; set aside.",
+         "In a large saucepan, cook chicken, onions, bell peppers, and garlic until chicken is no longer pink.",
+         "Stir in taco seasoning mix and taco sauce; set aside.",
+         "In a medium sized bowl, combine sour cream and cottage cheese; set aside.",
+         "Place half the crushed chips onto the bottom of the prepared dish. Add chicken mixture to cover the chips, then cover the chicken mixture with sour cream mixture.",
+         "Sprinkle with cheese and remaining crushed chips.",
+         "Bake, uncovered, for 30 minutes or until cheese has melted."
+      ],
+      "creator": {
+         "$oid": "614a120a1db7f06beb3b3584"
+      },
+      "picture": "https://res.cloudinary.com/dva9l2t1o/image/upload/v1632394134/fybm70hld98p3wzzmoem.jpg",
+      "createdAt": {
+         "$date": "2021-09-23T10:48:54.904Z"
+      },
+      "updatedAt": {
+         "$date": "2021-09-23T10:48:54.904Z"
+      },
+      "__v": 0,
+      "servings": 8,
+      "ratings": 0
+   }
+]

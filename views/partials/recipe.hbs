@@ -1,0 +1,37 @@
+<div class='col'>
+  {{#if this.title}}<a class='no-decoration-link' href='/recipe/{{_id}}'>{{/if}}
+    <div class='card recipe-card'>
+      <div class='recipe-image p-2'
+        style="background-image: url('{{#if this.title}}{{this.picture}}{{else}}{{recipe.image}}{{/if}}')">
+        <div class='card-body card pb-2'>
+          <h4 class='card-title'>{{#if this.title}}{{this.title}}{{else}}{{recipe.label}}{{/if}}</h4>
+          {{#if this.title}}<div class='card-text date-text'>added: {{date this.createdAt}}</div>{{/if}}
+          <div class='card-text card-avatar'>
+            <div><i class="card-clock far fa-clock"></i>{{#if
+              this.title}}{{this.cookingTime}} min{{else}}{{recipe.totalTime}} min{{/if}}{{#if this.title}}<i
+                class="card-star fas fa-heart"></i>{{this.ratings}}{{/if}}</div>
+            {{#if this.title}}<div id="card-creator">{{this.creator.username}} <img src='{{this.creator.picture}}' />
+            </div>{{/if}}
+            {{#if this.recipe}}
+            <form id="hidden-form" action="/api/add-recipe" method="POST">
+              <input type="text" name="title" value="{{recipe.label}}" hidden>
+              <input type="number" name="cookingTime" value="{{recipe.totalTime}}" hidden>
+              <input type="text" name="servings" value="{{recipe.yield}}" hidden>
+              {{#each recipe.ingredients}}
+              <input type="text" name="ingredients" value="{{this.text}}" hidden>
+              {{/each}}
+              <input type="text" name="diet" value="{{recipe.healthLabels}}" hidden>
+              <input type="text" name="cuisine" value="{{recipe.cuisineType}}" hidden>
+              <input type="text" name="dishType" value="{{recipe.dishType}}" hidden>
+              <input type="url" name="instructions[]" value="{{recipe.shareAs}}" hidden>
+              <input type="url" name="picture" value="{{recipe.image}}" hidden>
+              <button id="add-recipe-btn" class="btn"><i class="fas fa-2x fa-plus-circle"></i></button>
+            </form>
+            {{/if}}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{#if this.title}}
+  </a>{{/if}}
+</div>

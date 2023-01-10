@@ -1,0 +1,151 @@
+// ### Recipe styles ###
+
+.recipe-container {
+  padding: 0 1.5em;
+}
+
+.recipe-image {
+  background-size: cover;
+  height: 23em;
+  display: flex;
+  align-items: flex-end;
+  @include rounded;
+  @include image-shadow;
+  padding: 1em;
+}
+
+.card-body {
+  background-color: rgba(255, 255, 255, 0.829);
+}
+
+.card-body * {
+  white-space: pre-wrap;
+}
+
+.recipe-card {
+  padding: 0.8em;
+  margin-top: 1.5em;
+  @include card-shadow;
+  background-color: #f3ebd94b;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+  font-family: $font-acme;
+  color: $dark-pine;
+}
+
+.recipe-card:hover {
+  box-shadow: 0 3px 8px #00000054;
+  transform: scale(1.01);
+}
+
+.date-text {
+  font-style: italic;
+  font-size: 0.8em;
+}
+
+.card-avatar {
+  display: flex;
+  height: 2.5em;
+  justify-content: space-between;
+  align-items: flex-end;
+  img {
+    width: 1.5em;
+    border-radius: 50%;
+    margin-left: 0.2em;
+  }
+}
+
+#card-creator {
+  display: inherit;
+  align-items: center;
+  margin-bottom: 0.3em;
+}
+
+.card-clock,
+.card-star {
+  margin-right: 0.2em;
+}
+
+.card-star {
+  margin-left: 0.6em;
+}
+
+#recipe-title {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+#recipe-image-card,
+#ingredients-card {
+  height: 100%;
+}
+
+#recipe-detail-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  div {
+    button {
+      width: 100%;
+    }
+  }
+}
+
+#hidden-form {
+  position: relative;
+  left: -10000px;
+}
+
+#recipe-buttons {
+  margin-top: 1em;
+}
+
+#add-recipe-btn {
+  position: absolute;
+  bottom: -0.9em;
+  left: 10020px;
+  color: $pine;
+  height: 2em;
+  width: 2em;
+  .fas {
+    position: relative;
+    left: -0.4em;
+    top: -0.25em;
+  }
+}
+
+#update-btn {
+  background-color: $pine;
+  color: $offwhite;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 0.3em 0.5em;
+}
+
+.create-recipe-btn {
+  background-color: $pine;
+  color: $offwhite;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 0.3em 0.5em;
+}
+
+#add-ingredient,
+#remove-ingredient,
+#add-instruction,
+#remove-instruction {
+  background-color: $pine;
+  color: $offwhite;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 0.1em 0.5em;
+  width: 14em;
+}
+
+.sendRecipeButton {
+  background-color: $pine;
+  color: $offwhite;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 0.3em 0.5em;
+}

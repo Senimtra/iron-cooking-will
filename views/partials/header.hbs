@@ -1,0 +1,65 @@
+<header>
+  <a href='/'>
+    <div id='logo'><img src='/images/ironhack_logo.png' alt='IRON COOKING WILL Logo' /></div>
+  </a>
+  <div id='header-bar'>
+    <div id='social-media'>
+      <a href='https://www.instagram.com/' target="_blank">
+        <span class='fa-stack'>
+          <i class='fas fa-square fa-stack-2x fa-inverse'></i>
+          <i class='fab fa-instagram-square icon fa-stack-2x'></i>
+        </span>
+      </a>
+      <a href='https://www.pinterest.com/' target="_blank">
+        <span class='fa-stack'>
+          <i class='fas fa-square fa-stack-2x fa-inverse'></i>
+          <i class='fab fa-pinterest-square icon fa-stack-2x'></i>
+        </span>
+      </a>
+      <a href='https://twitter.com/' target="_blank">
+        <span class='fa-stack'>
+          <i class='fas fa-square fa-stack-2x fa-inverse'></i>
+          <i class='fab fa-twitter-square icon fa-stack-2x'></i>
+        </span>
+      </a>
+      <a href='https://www.facebook.com/' target="_blank">
+        <span class='fa-stack'>
+          <i class='fas fa-square fa-stack-2x fa-inverse'></i>
+          <i class='fab fa-facebook-square icon fa-stack-2x'></i>
+        </span>
+      </a>
+      <a href='https://www.youtube.com/' target="_blank">
+        <span class='fa-stack'>
+          <i class='fas fa-square fa-stack-2x fa-inverse'></i>
+          <i class='fab fa-youtube-square icon fa-stack-2x'></i>
+        </span>
+      </a>
+      <a href='https://vimeo.com/' target="_blank">
+        <span class='fa-stack'>
+          <i class='fas fa-square fa-stack-2x fa-inverse'></i>
+          <i class='fab fa-vimeo icon fa-stack-2x'></i>
+        </span>
+      </a>
+    </div>
+    <div id="register-login">
+      {{#if user.picture}}
+      <a href='/profile/{{user._id}}'>
+        <div id="user-image"><img src="{{user.picture}}"></div>
+      </a>
+      {{/if}}
+      {{#if user}}
+      <a href='/profile/{{user._id}}' id='profile'><button class='btn btn-sm btn-profile'>{{user.username}}'s
+          Profile</button></a>
+      <form id='logout-form' action='/authentication/sign-out' method='POST'>
+        <button class='btn btn-sm btn-logout'>Logout</button>
+      </form>
+      {{else}}
+      <a href='/authentication/sign-in' id='login'><button class='btn btn-sm btn-login'>Login</button></a>
+      <a href='/authentication/sign-up'>
+        <button class='btn btn-sm btn-register'>Register</button>
+      </a>
+      {{/if}}
+    </div>
+  </div>
+</header>
+<div class='spacer'></div>

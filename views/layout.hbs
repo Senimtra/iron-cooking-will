@@ -1,0 +1,53 @@
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8' />
+  <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no' />
+
+  <!-- ### Open graph meta tags ### -->
+  <meta name="title" property="og:title" content="IronCookingWill" />
+  <meta name="description" content="API driven recipe website" />
+  <meta property="og:type" content="website" />
+  <meta name="image" property="og:image"
+    content="https://res.cloudinary.com/dkwpt1gbw/image/upload/v1638120261/IronCookingWill_yd0szf.png" />
+  <meta name="description" property="og:description" content="API driven recipe website 🥧🌮🌯" />
+  <meta name="author" content="Lea, Nura, Gregor" />
+  <title>IronCookingWill</title>
+
+  <!-- ### Link Bootstrap 5.1.1 CSS CDN ### -->
+  <link href='https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css' rel='stylesheet'
+    integrity='sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU' crossorigin='anonymous' />
+
+  <!-- ### Link FontAwesome 5.15 ### -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+    integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+
+  <!-- ### Recipe search API attribution ### -->
+  <script src="https://developer.edamam.com/attribution/badge.js"></script>
+
+  <!-- ### Link own CSS stylesheet ### -->
+  <link rel='stylesheet' href='/styles/main.css' />
+</head>
+
+<body class="mx-xxl-5">
+  <div class='container-xl px-0 mx-xxl-5'>
+    <div class="wrapper">
+
+      {{>header}}
+      {{>navbar}}
+      {{>hero}}
+      {{{body}}}
+      {{>footer}}
+
+    </div>
+
+    <!-- ### Link Bootstrap 5.1.1 JavaScript bundle ### -->
+    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js'
+      integrity='sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ'
+      crossorigin='anonymous'></script>
+
+    <script src='/scripts/script.js'></script>
+  </div>
+</body>
+
+</html>

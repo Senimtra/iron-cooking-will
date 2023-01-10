@@ -1,0 +1,64 @@
+.allAboutElements {
+  background-color: $offwhite;
+  a,
+  p,
+  h1 {
+    color: $dark-pine;
+  }
+  a:hover {
+    color: $petrol;
+  }
+  p {
+    display: block;
+    justify-content: space-around;
+    font-family: 'Arial';
+    margin: 0.5em;
+  }
+
+  p a {
+    color: $petrol;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  span {
+    margin: 1em;
+    border: 0.5em solid $pine;
+    border-radius: 0.2em;
+    background-color: rgb(245, 243, 233);
+    box-shadow: 1px 1px 2px #838383;
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+    width: 100%;
+  }
+
+  span:hover {
+    box-shadow: 0 3px 8px #00000054;
+    transform: scale(1.01);
+  }
+}
+
+.img {
+  width: 5em;
+  height: 5em;
+  border-radius: 50%;
+}
+
+.aboutA {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5em;
+  img {
+    margin: 0.6em 0;
+  }
+}
+
+.aboutElements {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about-name {
+  font-family: $font-acme;
+  font-size: 2em;
+}
